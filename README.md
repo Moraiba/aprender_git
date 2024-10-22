@@ -1,3 +1,8 @@
-Version 3 de readme.md si se puede 
 
-Ramas
+Version 1 de readme.md
+rama main 
+version 3
+
+esto es lo que cambia, escribimos esto solo para comparar
+
+
